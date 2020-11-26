@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "8A033DE5-06FF-4B13-A26F-854F96FE813E"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C3D969BC-3662-454A-84E6-A4B77A0829E5"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Gifer/controllers/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "52"
+            endingLineNumber = "52"
+            landmarkName = "getGifs(by:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "25F22826-50EC-4A1B-B656-DA68F5E049C4"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Gifer/controllers/LaunchViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "68"
+            endingLineNumber = "68"
+            landmarkName = "typeOn(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "02508BAB-1527-435E-BF44-E09AB082ED49"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Gifer/controllers/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "208"
+            endingLineNumber = "208"
+            landmarkName = "searchBar(_:textDidChange:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "09237D6C-4C18-444F-B821-525356AB1F76"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Gifer/controllers/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "36"
+            endingLineNumber = "36"
+            landmarkName = "getGifs(by:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "25EDDF61-5F84-47B1-8B03-E8362BBD9987"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Gifer/controllers/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "178"
+            endingLineNumber = "178"
+            landmarkName = "searchBar(_:textDidChange:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "00CD5768-C884-4DC6-8D38-629B58A93162"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Gifer/controllers/SavedGifs.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "14"
+            endingLineNumber = "14"
+            landmarkName = "SavedGifs"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "00CD5768-C884-4DC6-8D38-629B58A93162 - dfc8e225d0980bfa"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Gifer.SavedGifs.fetchedResultsController.getter : Swift.Optional&lt;__C.NSFetchedResultsController&lt;Gifer.Gify&gt;&gt;"
+                  moduleName = "Gifer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/miad/Desktop/udemy/Submissions/Gifer/Gifer/controllers/SavedGifs.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "126">
+               </Location>
+               <Location
+                  uuid = "00CD5768-C884-4DC6-8D38-629B58A93162 - a9197981c094bbee"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Gifer.SavedGifs.fetchedResultsController.setter : Swift.Optional&lt;__C.NSFetchedResultsController&lt;Gifer.Gify&gt;&gt;"
+                  moduleName = "Gifer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/miad/Desktop/udemy/Submissions/Gifer/Gifer/controllers/SavedGifs.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "160">
+               </Location>
+               <Location
+                  uuid = "00CD5768-C884-4DC6-8D38-629B58A93162 - 56645c5350a45ffd"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Gifer.SavedGifs.fetchedResultsController.modify : Swift.Optional&lt;__C.NSFetchedResultsController&lt;Gifer.Gify&gt;&gt;"
+                  moduleName = "Gifer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/miad/Desktop/udemy/Submissions/Gifer/Gifer/controllers/SavedGifs.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "18">
+               </Location>
+               <Location
+                  uuid = "00CD5768-C884-4DC6-8D38-629B58A93162 - 9279e2ac73f81f20"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Gifer.SavedGifs.fetchedResultsController.modify : Swift.Optional&lt;__C.NSFetchedResultsController&lt;Gifer.Gify&gt;&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "Gifer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/miad/Desktop/udemy/Submissions/Gifer/Gifer/controllers/SavedGifs.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  uuid = "00CD5768-C884-4DC6-8D38-629B58A93162 - c37facc0ce71166c"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Gifer.SavedGifs.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; Gifer.SavedGifs"
+                  moduleName = "Gifer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/miad/Desktop/udemy/Submissions/Gifer/Gifer/controllers/SavedGifs.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "146">
+               </Location>
+               <Location
+                  uuid = "00CD5768-C884-4DC6-8D38-629B58A93162 - 326f001969f25aa1"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Gifer.SavedGifs.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;Gifer.SavedGifs&gt;"
+                  moduleName = "Gifer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/miad/Desktop/udemy/Submissions/Gifer/Gifer/controllers/SavedGifs.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "92">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "140BE1F8-85CE-4C47-94B2-E5AE3C444B70"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Gifer/controllers/SavedGifs.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "27"
+            endingLineNumber = "27"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
