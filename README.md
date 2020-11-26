@@ -50,8 +50,3 @@ This iOS Application will let you search tenor api for Gifs and Share it or save
 9. Long press on the Gif to Delete it or Share
 
 10. Enjoy The App :) 
-
-
-sreenshots:
-
-![alt text](http://url/to/img1.png)
